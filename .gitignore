@@ -15,3 +15,8 @@ verify-*.sql
 
 # Temporary review directories
 background-assets/reviews-evaluations/
+
+# AI agent configuration directories (local/session-specific)
+.claude/
+.agent/
+.gemini/
